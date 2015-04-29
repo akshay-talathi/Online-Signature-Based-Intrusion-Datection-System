@@ -7,8 +7,8 @@
 5. Studied Counting Bloom Filter Algorithm and made program to work it for intrusion detections.
 
 ## Technologies used in the project-
-Used JSP-Servlet for developing application in Eclipse framework.
-Apache Tomcat was used as a Server.
-HTML-CSS for front-end.
-MySQL database was used for maintaining database.
-Focused on security aspects to prevent SQL injection, brute-force attacks and Denial of Service attacks.
+1. Used JSP-Servlet for developing application in Eclipse framework.
+2. Apache Tomcat was used as a Server.
+3. HTML-CSS for front-end.
+4. MySQL database was used for maintaining database.
+5. Focused on security aspects to prevent SQL injection, brute-force attacks and Denial of Service attacks.
