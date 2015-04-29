@@ -1,0 +1,14 @@
+/* 
+    Document   : test
+    Created on : Feb 6, 2013, 5:16:16 AM
+    Author     : Hemant
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+@font-face {
+  font-family: 'Oleo Script';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Oleo Script'), local('OleoScript-Regular'), url(_weQNDK6Uf40CiGFKBBUjobN6UDyHWBl620a-IRfuBk.woff) format('woff');
+}
